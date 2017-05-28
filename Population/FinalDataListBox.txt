@@ -1,0 +1,564 @@
+"Albury","C","NSW","ERP",10050,26635,25087,"A",2015
+"Armidale Dumaresq","R","NSW","ERP",10110,13245,12073,"A",2015
+"Ashfield","R","NSW","ERP",10150,22729,21811,"A",2015
+"Auburn","C","NSW","ERP",10200,42416,45643,"A",2015
+"Ballina","R","NSW","ERP",10250,21598,20230,"A",2015
+"Balranald","R","NSW","ERP",10300,1138,1284,"A",2015
+"Bankstown","C","NSW","ERP",10350,102519,100683,"A",2015
+"Bathurst Regional","R","NSW","ERP",10470,20913,21318,"A",2015
+"Bega Valley","R","NSW","ERP",10550,17052,16423,"A",2015
+"Bellingen","R","NSW","ERP",10600,6688,6322,"A",2015
+"Berrigan","R","NSW","ERP",10650,4162,4254,"A",2015
+"Blacktown","C","NSW","ERP",10750,169733,169595,"A",2015
+"Bland","R","NSW","ERP",10800,2905,3054,"A",2015
+"Blayney","R","NSW","ERP",10850,3648,3732,"A",2015
+"Blue Mountains","C","NSW","ERP",10900,41086,38726,"A",2015
+"Bogan","R","NSW","ERP",10950,1526,1533,"A",2015
+"Bombala","R","NSW","ERP",11000,1220,1210,"A",2015
+"Boorowa","R","NSW","ERP",11050,1267,1358,"A",2015
+"Botany Bay","C","NSW","ERP",11100,23380,23207,"A",2015
+"Bourke","R","NSW","ERP",11150,1358,1518,"A",2015
+"Brewarrina","R","NSW","ERP",11200,929,988,"A",2015
+"Broken Hill","C","NSW","ERP",11250,9510,9346,"A",2015
+"Burwood","R","NSW","ERP",11300,18361,17778,"A",2015
+"Byron","R","NSW","ERP",11350,16450,16273,"A",2015
+"Cabonne","R","NSW","ERP",11400,6847,7013,"A",2015
+"Camden","R","NSW","ERP",11450,36132,36124,"A",2015
+"Campbelltown","C","NSW","ERP",11500,80555,78386,"A",2015
+"Canada Bay","R","NSW","ERP",11520,45374,43445,"A",2015
+"Canterbury","C","NSW","ERP",11550,75644,76102,"A",2015
+"Carrathool","R","NSW","ERP",11600,1293,1440,"A",2015
+"Central Darling","R","NSW","ERP",11700,970,1118,"A",2015
+"Cessnock","C","NSW","ERP",11720,27788,28074,"A",2015
+"Clarence Valley","R","NSW","ERP",11730,25798,25242,"A",2015
+"Cobar","R","NSW","ERP",11750,2285,2690,"A",2015
+"Coffs Harbour","C","NSW","ERP",11800,37172,35799,"A",2015
+"Conargo","R","NSW","ERP",11860,741,792,"A",2015
+"Coolamon","R","NSW","ERP",12000,2202,2140,"A",2015
+"Cooma-Monaro","R","NSW","ERP",12050,4963,5182,"A",2015
+"Coonamble","R","NSW","ERP",12150,2078,2184,"A",2015
+"Cootamundra","R","NSW","ERP",12200,4000,3705,"A",2015
+"Corowa Shire","R","NSW","ERP",12300,5767,5720,"A",2015
+"Cowra","R","NSW","ERP",12350,6098,6378,"A",2015
+"Deniliquin","R","NSW","ERP",12500,3792,3637,"A",2015
+"Dubbo","C","NSW","ERP",12600,21592,20342,"A",2015
+"Dungog","R","NSW","ERP",12700,4574,4621,"A",2015
+"Eurobodalla","R","NSW","ERP",12750,19181,18701,"A",2015
+"Fairfield","C","NSW","ERP",12850,103413,101029,"A",2015
+"Forbes","R","NSW","ERP",12900,4908,4846,"A",2015
+"Gilgandra","R","NSW","ERP",12950,2266,2102,"A",2015
+"Glen Innes Severn","R","NSW","ERP",13010,4540,4459,"A",2015
+"Gloucester","R","NSW","ERP",13050,2604,2556,"A",2015
+"Gosford","C","NSW","ERP",13100,88863,84275,"A",2015
+"Goulburn Mulwaree","R","NSW","ERP",13310,14607,14943,"A",2015
+"Great Lakes","R","NSW","ERP",13320,18494,18226,"A",2015
+"Greater Hume Shire","R","NSW","ERP",13340,5190,5188,"A",2015
+"Greater Taree","C","NSW","ERP",13380,24992,24103,"A",2015
+"Griffith","C","NSW","ERP",13450,12656,13330,"A",2015
+"Gundagai","R","NSW","ERP",13500,1859,1897,"A",2015
+"Gunnedah","R","NSW","ERP",13550,6399,6406,"A",2015
+"Guyra","R","NSW","ERP",13650,2266,2285,"A",2015
+"Gwydir","R","NSW","ERP",13660,2464,2604,"A",2015
+"Harden","R","NSW","ERP",13700,1813,1893,"A",2015
+"Hawkesbury","C","NSW","ERP",13800,33034,33100,"A",2015
+"Hay","R","NSW","ERP",13850,1439,1560,"A",2015
+"Holroyd","C","NSW","ERP",13950,56714,56580,"A",2015
+"Hornsby","R","NSW","ERP",14000,86939,83624,"A",2015
+"Hunters Hill","R","NSW","ERP",14100,7252,7489,"A",2015
+"Hurstville","C","NSW","ERP",14150,44506,41978,"A",2015
+"Inverell","R","NSW","ERP",14200,8641,8295,"A",2015
+"Jerilderie","R","NSW","ERP",14250,695,831,"A",2015
+"Junee","R","NSW","ERP",14300,2659,3571,"A",2015
+"Kempsey","R","NSW","ERP",14350,14718,14966,"A",2015
+"Kiama","R","NSW","ERP",14400,10861,10644,"A",2015
+"Kogarah","C","NSW","ERP",14450,31233,30189,"A",2015
+"Ku-ring-gai","R","NSW","ERP",14500,63651,59208,"A",2015
+"Kyogle","R","NSW","ERP",14550,4638,4899,"A",2015
+"Lachlan","R","NSW","ERP",14600,3383,3384,"A",2015
+"Lake Macquarie","C","NSW","ERP",14650,103325,100841,"A",2015
+"Lane Cove","R","NSW","ERP",14700,18324,17635,"A",2015
+"Leeton","R","NSW","ERP",14750,5898,5747,"A",2015
+"Leichhardt","R","NSW","ERP",14800,30854,27902,"A",2015
+"Lismore","C","NSW","ERP",14850,22575,22166,"A",2015
+"Lithgow","C","NSW","ERP",14870,10383,11033,"A",2015
+"Liverpool","C","NSW","ERP",14900,102787,101807,"A",2015
+"Liverpool Plains","R","NSW","ERP",14920,3844,3915,"A",2015
+"Lockhart","R","NSW","ERP",14950,1458,1567,"A",2015
+"Maitland","C","NSW","ERP",15050,38380,38227,"A",2015
+"Manly","R","NSW","ERP",15150,23022,22343,"A",2015
+"Marrickville","R","NSW","ERP",15200,42610,41660,"A",2015
+"Mid-Western Regional","R","NSW","ERP",15270,11860,12331,"A",2015
+"Moree Plains","R","NSW","ERP",15300,6857,7196,"A",2015
+"Mosman","R","NSW","ERP",15350,15990,14506,"A",2015
+"Murray","R","NSW","ERP",15500,3709,3890,"A",2015
+"Murrumbidgee","R","NSW","ERP",15550,1179,1379,"A",2015
+"Muswellbrook","R","NSW","ERP",15650,8141,9068,"A",2015
+"Nambucca","R","NSW","ERP",15700,10080,9518,"A",2015
+"Narrabri","R","NSW","ERP",15750,6761,7038,"A",2015
+"Narrandera","R","NSW","ERP",15800,2922,2998,"A",2015
+"Narromine","R","NSW","ERP",15850,3348,3474,"A",2015
+"Newcastle","C","NSW","ERP",15900,80529,80696,"A",2015
+"North Sydney","R","NSW","ERP",15950,37802,34816,"A",2015
+"Oberon","R","NSW","ERP",16100,2564,2754,"A",2015
+"Orange","C","NSW","ERP",16150,21140,20669,"A",2015
+"Palerang","R","NSW","ERP",16180,7973,7924,"A",2015
+"Parkes","R","NSW","ERP",16200,7693,7644,"A",2015
+"Parramatta","C","NSW","ERP",16250,95967,98481,"A",2015
+"Penrith","C","NSW","ERP",16350,99540,98382,"A",2015
+"Pittwater","R","NSW","ERP",16370,32584,31605,"A",2015
+"Port Macquarie-Hastings","R","NSW","ERP",16380,40410,37718,"A",2015
+"Port Stephens","R","NSW","ERP",16400,35668,34779,"A",2015
+"Queanbeyan","C","NSW","ERP",16470,20070,20587,"A",2015
+"Randwick","C","NSW","ERP",16550,73705,72117,"A",2015
+"Richmond Valley","R","NSW","ERP",16610,11765,11416,"A",2015
+"Rockdale","C","NSW","ERP",16650,55244,54618,"A",2015
+"Ryde","C","NSW","ERP",16700,59869,57302,"A",2015
+"Shellharbour","C","NSW","ERP",16900,35366,34348,"A",2015
+"Shoalhaven","C","NSW","ERP",16950,50493,49654,"A",2015
+"Singleton","R","NSW","ERP",17000,11441,12630,"A",2015
+"Snowy River","R","NSW","ERP",17050,3704,4474,"A",2015
+"Strathfield","R","NSW","ERP",17100,19756,20369,"A",2015
+"Sutherland Shire","R","NSW","ERP",17150,114937,111283,"A",2015
+"Sydney","C","NSW","ERP",17200,96367,108972,"A",2015
+"Tamworth Regional","R","NSW","ERP",17310,30817,30304,"A",2015
+"Temora","R","NSW","ERP",17350,3043,3028,"A",2015
+"Tenterfield","R","NSW","ERP",17400,3514,3472,"A",2015
+"The Hills Shire","R","NSW","ERP",17420,97011,95219,"A",2015
+"Tumbarumba","R","NSW","ERP",17450,1684,1902,"A",2015
+"Tumut Shire","R","NSW","ERP",17500,5603,5805,"A",2015
+"Tweed","R","NSW","ERP",17550,48125,44335,"A",2015
+"Upper Hunter Shire","R","NSW","ERP",17620,7137,7400,"A",2015
+"Upper Lachlan Shire","R","NSW","ERP",17640,3981,3895,"A",2015
+"Uralla","R","NSW","ERP",17650,3201,3210,"A",2015
+"Urana","R","NSW","ERP",17700,543,599,"A",2015
+"Wagga Wagga","C","NSW","ERP",17750,32147,31281,"A",2015
+"Wakool","R","NSW","ERP",17800,1947,2040,"A",2015
+"Walcha","R","NSW","ERP",17850,1518,1546,"A",2015
+"Walgett","R","NSW","ERP",17900,3096,3695,"A",2015
+"Warren","R","NSW","ERP",17950,1452,1449,"A",2015
+"Warringah","R","NSW","ERP",18000,79376,77317,"A",2015
+"Warrumbungle Shire","R","NSW","ERP",18020,4916,4812,"A",2015
+"Waverley","R","NSW","ERP",18050,36281,36418,"A",2015
+"Weddin","R","NSW","ERP",18100,1845,1856,"A",2015
+"Wellington","R","NSW","ERP",18150,4301,4772,"A",2015
+"Wentworth","R","NSW","ERP",18200,3348,3535,"A",2015
+"Willoughby","C","NSW","ERP",18250,39343,37011,"A",2015
+"Wingecarribee","R","NSW","ERP",18350,24980,23048,"A",2015
+"Wollondilly","R","NSW","ERP",18400,23914,24083,"A",2015
+"Wollongong","C","NSW","ERP",18450,104695,104180,"A",2015
+"Woollahra","R","NSW","ERP",18500,31131,28176,"A",2015
+"Wyong","R","NSW","ERP",18550,82443,77538,"A",2015
+"Yass Valley","R","NSW","ERP",18710,8242,8322,"A",2015
+"Young","R","NSW","ERP",18750,6334,6254,"A",2015
+"Alpine","R","Vic","ERP",20110,5947,5911,"A",2015
+"Ararat","R","Vic","ERP",20260,5344,5684,"A",2015
+"Ballarat","C","Vic","ERP",20570,52169,49409,"A",2015
+"Banyule","C","Vic","ERP",20660,64719,61513,"A",2015
+"Bass Coast","R","Vic","ERP",20740,15880,16153,"A",2015
+"Baw Baw","R","Vic","ERP",20830,23548,23090,"A",2015
+"Bayside","C","Vic","ERP",20910,52774,48547,"A",2015
+"Benalla","R","Vic","ERP",21010,6792,6704,"A",2015
+"Boroondara","C","Vic","ERP",21110,90207,84580,"A",2015
+"Brimbank","C","Vic","ERP",21180,99541,99891,"A",2015
+"Buloke","R","Vic","ERP",21270,2977,2975,"A",2015
+"Campaspe","R","Vic","ERP",21370,18342,18405,"A",2015
+"Cardinia","R","Vic","ERP",21450,45862,45022,"A",2015
+"Casey","C","Vic","ERP",21610,146441,145770,"A",2015
+"Central Goldfields","R","Vic","ERP",21670,6358,6217,"A",2015
+"Colac-Otway","R","Vic","ERP",21750,10041,10214,"A",2015
+"Corangamite","R","Vic","ERP",21830,7643,8028,"A",2015
+"Darebin","C","Vic","ERP",21890,77624,73257,"A",2015
+"East Gippsland","R","Vic","ERP",22110,22148,21847,"A",2015
+"Frankston","C","Vic","ERP",22170,68784,67187,"A",2015
+"Gannawarra","R","Vic","ERP",22250,4990,5029,"A",2015
+"Glen Eira","C","Vic","ERP",22310,74578,71725,"A",2015
+"Glenelg","R","Vic","ERP",22410,9399,9759,"A",2015
+"Golden Plains","R","Vic","ERP",22490,10140,10669,"A",2015
+"Greater Bendigo","C","Vic","ERP",22620,55181,53256,"A",2015
+"Greater Dandenong","C","Vic","ERP",22670,74853,77886,"A",2015
+"Greater Geelong","C","Vic","ERP",22750,116491,112929,"A",2015
+"Greater Shepparton","C","Vic","ERP",22830,31717,31649,"A",2015
+"Hepburn","R","Vic","ERP",22910,7591,7203,"A",2015
+"Hindmarsh","R","Vic","ERP",22980,2711,2783,"A",2015
+"Hobsons Bay","C","Vic","ERP",23110,46308,46453,"A",2015
+"Horsham","R","Vic","ERP",23190,9946,9828,"A",2015
+"Hume","C","Vic","ERP",23270,97408,96598,"A",2015
+"Indigo","R","Vic","ERP",23350,7666,7765,"A",2015
+"Kingston","C","Vic","ERP",23430,79280,75197,"A",2015
+"Knox","C","Vic","ERP",23670,78913,76768,"A",2015
+"Latrobe","C","Vic","ERP",23810,37192,36356,"A",2015
+"Loddon","R","Vic","ERP",23940,3561,3722,"A",2015
+"Macedon Ranges","R","Vic","ERP",24130,22915,22393,"A",2015
+"Manningham","C","Vic","ERP",24210,61316,58126,"A",2015
+"Mansfield","R","Vic","ERP",24250,4140,4160,"A",2015
+"Maribyrnong","C","Vic","ERP",24330,40759,42756,"A",2015
+"Maroondah","C","Vic","ERP",24410,57372,54938,"A",2015
+"Melbourne","C","Vic","ERP",24600,63737,65243,"A",2015
+"Melton","C","Vic","ERP",24650,66568,66184,"A",2015
+"Mildura","R","Vic","ERP",24780,26929,26086,"A",2015
+"Mitchell","R","Vic","ERP",24850,19495,19648,"A",2015
+"Moira","R","Vic","ERP",24900,14300,14520,"A",2015
+"Monash","C","Vic","ERP",24970,94492,92794,"A",2015
+"Moonee Valley","C","Vic","ERP",25060,61552,58031,"A",2015
+"Moorabool","R","Vic","ERP",25150,15713,15783,"A",2015
+"Moreland","C","Vic","ERP",25250,84463,82307,"A",2015
+"Mornington Peninsula","R","Vic","ERP",25340,80220,74795,"A",2015
+"Mount Alexander","R","Vic","ERP",25430,9050,9080,"A",2015
+"Moyne","R","Vic","ERP",25490,8155,8074,"A",2015
+"Murrindindi","R","Vic","ERP",25620,6679,7014,"A",2015
+"Nillumbik","R","Vic","ERP",25710,31466,31136,"A",2015
+"Northern Grampians","R","Vic","ERP",25810,5626,5883,"A",2015
+"Port Phillip","C","Vic","ERP",25900,53752,53375,"A",2015
+"Pyrenees","R","Vic","ERP",25990,3490,3332,"A",2015
+"Queenscliffe","R","Vic","ERP",26080,1624,1393,"A",2015
+"South Gippsland","R","Vic","ERP",26170,14009,13697,"A",2015
+"Southern Grampians","R","Vic","ERP",26260,8037,7714,"A",2015
+"Stonnington","C","Vic","ERP",26350,55505,52436,"A",2015
+"Strathbogie","R","Vic","ERP",26430,4865,4961,"A",2015
+"Surf Coast","R","Vic","ERP",26490,14442,14499,"A",2015
+"Swan Hill","R","Vic","ERP",26610,9949,10460,"A",2015
+"Towong","R","Vic","ERP",26670,2900,2862,"A",2015
+"Wangaratta","R","Vic","ERP",26700,13922,13143,"A",2015
+"Warrnambool","C","Vic","ERP",26730,17133,16511,"A",2015
+"Wellington","R","Vic","ERP",26810,20822,21143,"A",2015
+"West Wimmera","R","Vic","ERP",26890,1933,1946,"A",2015
+"Whitehorse","C","Vic","ERP",26980,85391,80166,"A",2015
+"Whittlesea","C","Vic","ERP",27070,97985,97412,"A",2015
+"Wodonga","R","Vic","ERP",27170,19340,19219,"A",2015
+"Wyndham","C","Vic","ERP",27260,105155,104692,"A",2015
+"Yarra","C","Vic","ERP",27350,45645,43506,"A",2015
+"Yarra Ranges","R","Vic","ERP",27450,76035,74626,"A",2015
+"Yarriambiack","R","Vic","ERP",27630,3288,3471,"A",2015
+"Aurukun","R","Qld","ERP",30250,707,717,"A",2015
+"Balonne","R","Qld","ERP",30300,2318,2508,"A",2015
+"Banana","R","Qld","ERP",30370,7301,7908,"A",2015
+"Barcaldine","R","Qld","ERP",30410,1664,1678,"A",2015
+"Barcoo","R","Qld","ERP",30450,158,199,"A",2015
+"Blackall-Tambo","R","Qld","ERP",30760,1140,1098,"A",2015
+"Boulia","R","Qld","ERP",30900,206,284,"A",2015
+"Brisbane","C","QLD","ERP",31000,583078,579108,"A",2015
+"Bulloo","R","Qld","ERP",31750,159,237,"A",2015
+"Bundaberg","R","Qld","ERP",31820,47861,46519,"A",2015
+"Burdekin","R","Qld","ERP",31900,8801,9030,"A",2015
+"Burke","R","Qld","ERP",31950,220,342,"A",2015
+"Cairns","R","Qld","ERP",32080,81275,79010,"A",2015
+"Carpentaria","R","Qld","ERP",32250,1061,1201,"A",2015
+"Cassowary Coast","R","Qld","ERP",32260,13695,14994,"A",2015
+"Central Highlands","R","Qld","ERP",32270,14505,16949,"A",2015
+"Charters Towers","R","Qld","ERP",32310,6215,6218,"A",2015
+"Cherbourg","R","Qld","ERP",32330,669,622,"A",2015
+"Cloncurry","R","Qld","ERP",32450,1280,2071,"A",2015
+"Cook","R","Qld","ERP",32500,1942,2446,"A",2015
+"Croydon","R","Qld","ERP",32600,132,194,"A",2015
+"Diamantina","R","Qld","ERP",32750,129,159,"A",2015
+"Doomadgee","R","Qld","ERP",32770,643,756,"A",2015
+"Douglas","R","Qld","ERP",32810,5704,5957,"A",2015
+"Etheridge","R","Qld","ERP",33100,387,539,"A",2015
+"Flinders","R","Qld","ERP",33200,805,987,"A",2015
+"Fraser Coast","R","Qld","ERP",33220,52401,49576,"A",2015
+"Gladstone","R","Qld","ERP",33360,31701,35763,"A",2015
+"Gold Coast","C","QLD","ERP",33430,283346,272262,"A",2015
+"Goondiwindi","R","Qld","ERP",33610,5543,5479,"A",2015
+"Gympie","R","Qld","ERP",33620,24594,24087,"A",2015
+"Hinchinbrook","R","Qld","ERP",33800,5464,5888,"A",2015
+"Hope Vale","R","Qld","ERP",33830,508,617,"A",2015
+"Ipswich","C","QLD","ERP",33960,96458,96557,"A",2015
+"Isaac","R","Qld","ERP",33980,10383,13884,"A",2015
+"Kowanyama","R","Qld","ERP",34420,593,549,"A",2015
+"Livingstone","R","Qld","ERP",34530,17887,19114,"A",2015
+"Lockhart River","R","Qld","ERP",34570,281,267,"A",2015
+"Lockyer Valley","R","Qld","ERP",34580,19344,19454,"A",2015
+"Logan","C","QLD","ERP",34590,155628,153053,"A",2015
+"Longreach","R","Qld","ERP",34710,2119,1973,"A",2015
+"Mackay","R","Qld","ERP",34770,59508,64216,"A",2015
+"McKinlay","R","Qld","ERP",34800,428,634,"A",2015
+"Mapoon","R","Qld","ERP",34830,145,149,"A",2015
+"Maranoa","R","Qld","ERP",34860,6658,7204,"A",2015
+"Mareeba","R","Qld","ERP",34880,10517,11316,"A",2015
+"Moreton Bay","R","Qld","ERP",35010,215997,209485,"A",2015
+"Mornington","R","Qld","ERP",35250,603,622,"A",2015
+"Mount Isa","C","QLD","ERP",35300,10416,12101,"A",2015
+"Murweh","R","Qld","ERP",35600,2347,2279,"A",2015
+"Napranum","R","Qld","ERP",35670,457,505,"A",2015
+"Noosa","R","Qld","ERP",35740,27671,25844,"A",2015
+"North Burnett","R","Qld","ERP",35760,4948,5344,"A",2015
+"Northern Peninsula Area","R","Qld","ERP",35780,1398,1316,"A",2015
+"Palm Island","R","Qld","ERP",35790,1257,1414,"A",2015
+"Paroo","R","Qld","ERP",35800,870,971,"A",2015
+"Pormpuraaw","R","Qld","ERP",36070,341,402,"A",2015
+"Quilpie","R","Qld","ERP",36150,456,492,"A",2015
+"Redland","C","QLD","ERP",36250,76133,73856,"A",2015
+"Richmond","R","Qld","ERP",36300,391,441,"A",2015
+"Rockhampton","R","Qld","ERP",36370,42288,41365,"A",2015
+"Scenic Rim","R","Qld","ERP",36510,20026,19731,"A",2015
+"Somerset","R","Qld","ERP",36580,11916,12091,"A",2015
+"South Burnett","R","Qld","ERP",36630,16409,16166,"A",2015
+"Southern Downs","R","Qld","ERP",36660,18400,17338,"A",2015
+"Sunshine Coast","R","Qld","ERP",36720,147937,139602,"A",2015
+"Tablelands","R","Qld","ERP",36820,12622,12375,"A",2015
+"Toowoomba","R","Qld","ERP",36910,83369,79863,"A",2015
+"Torres","R","Qld","ERP",36950,1825,1840,"A",2015
+"Torres Strait Island","R","Qld","ERP",36960,2174,2461,"A",2015
+"Townsville","C","QLD","ERP",37010,97013,96933,"A",2015
+"Weipa","R","Qld","ERP",37300,1749,2217,"A",2015
+"Western Downs","R","Qld","ERP",37310,16186,17613,"A",2015
+"Whitsunday","R","Qld","ERP",37340,16264,18048,"A",2015
+"Winton","R","Qld","ERP",37400,620,739,"A",2015
+"Woorabinda","R","Qld","ERP",37550,527,474,"A",2015
+"Wujal Wujal","R","Qld","ERP",37570,151,145,"A",2015
+"Yarrabah","R","Qld","ERP",37600,1336,1350,"A",2015
+"Adelaide","C","SA","ERP",40070,10996,12173,"A",2015
+"Adelaide Hills","R","SA","ERP",40120,19902,20129,"A",2015
+"Alexandrina","R","SA","ERP",40220,12970,12479,"A",2015
+"Anangu Pitjantjatjara","R","SA","ERP",40250,1378,1414,"A",2015
+"Barossa","R","SA","ERP",40310,11549,11555,"A",2015
+"Barunga West","R","SA","ERP",40430,1178,1256,"A",2015
+"Berri and Barmera","R","SA","ERP",40520,5094,5325,"A",2015
+"Burnside","C","SA","ERP",40700,23723,21311,"A",2015
+"Campbelltown","C","SA","ERP",40910,26688,25201,"A",2015
+"Ceduna","R","SA","ERP",41010,1862,1854,"A",2015
+"Charles Sturt","C","SA","ERP",41060,58259,55950,"A",2015
+"Clare and Gilbert Valleys","R","SA","ERP",41140,4556,4501,"A",2015
+"Cleve","R","SA","ERP",41190,847,948,"A",2015
+"Coober Pedy","R","SA","ERP",41330,794,1007,"A",2015
+"Copper Coast","R","SA","ERP",41560,7203,6911,"A",2015
+"Elliston","R","SA","ERP",41750,485,581,"A",2015
+"Flinders Ranges","R","SA","ERP",41830,783,825,"A",2015
+"Franklin Harbour","R","SA","ERP",41960,599,635,"A",2015
+"Gawler","R","SA","ERP",42030,11825,10793,"A",2015
+"Goyder","R","SA","ERP",42110,2078,2154,"A",2015
+"Grant","R","SA","ERP",42250,3801,4434,"A",2015
+"Holdfast Bay","C","SA","ERP",42600,19348,17915,"A",2015
+"Kangaroo Island","R","SA","ERP",42750,2247,2364,"A",2015
+"Karoonda East Murray","R","SA","ERP",43080,498,516,"A",2015
+"Kimba","R","SA","ERP",43220,517,580,"A",2015
+"Kingston","R","SA","ERP",43360,1153,1210,"A",2015
+"Light","R","SA","ERP",43650,7184,7657,"A",2015
+"Lower Eyre Peninsula","R","SA","ERP",43710,2379,2708,"A",2015
+"Loxton Waikerie","R","SA","ERP",43790,5642,5820,"A",2015
+"Mallala","R","SA","ERP",43920,4210,4540,"A",2015
+"Maralinga Tjarutja","R","SA","ERP",44000,33,42,"A",2015
+"Marion","C","SA","ERP",44060,45732,43251,"A",2015
+"Mid Murray","R","SA","ERP",44210,3774,4469,"A",2015
+"Mitcham","C","SA","ERP",44340,34391,31956,"A",2015
+"Mount Barker","R","SA","ERP",44550,16716,15842,"A",2015
+"Mount Gambier","C","SA","ERP",44620,13716,12632,"A",2015
+"Mount Remarkable","R","SA","ERP",44830,1335,1438,"A",2015
+"Murray Bridge","R","SA","ERP",45040,10313,10658,"A",2015
+"Naracoorte and Lucindale","R","SA","ERP",45090,3878,4512,"A",2015
+"Northern Areas","R","SA","ERP",45120,2202,2286,"A",2015
+"Norwood Payneham St Peters","C","SA","ERP",45290,19308,18042,"A",2015
+"Onkaparinga","C","SA","ERP",45340,86086,82712,"A",2015
+"Orroroo/Carrieton","R","SA","ERP",45400,402,450,"A",2015
+"Peterborough","R","SA","ERP",45540,828,845,"A",2015
+"Playford","C","SA","ERP",45680,44283,43939,"A",2015
+"Port Adelaide Enfield","C","SA","ERP",45890,61939,61815,"A",2015
+"Port Augusta","C","SA","ERP",46090,7167,7355,"A",2015
+"Port Lincoln","C","SA","ERP",46300,7687,7297,"A",2015
+"Port Pirie City and Dists","R","SA","ERP",46450,8828,8712,"A",2015
+"Prospect","C","SA","ERP",46510,10658,10758,"A",2015
+"Renmark Paringa","R","SA","ERP",46670,4561,4669,"A",2015
+"Robe","R","SA","ERP",46860,690,738,"A",2015
+"Roxby Downs","R","SA","ERP",46970,1916,3162,"A",2015
+"Salisbury","C","SA","ERP",47140,69072,69463,"A",2015
+"Southern Mallee","R","SA","ERP",47290,981,1077,"A",2015
+"Streaky Bay","R","SA","ERP",47490,1076,1173,"A",2015
+"Tatiara","R","SA","ERP",47630,3226,3405,"A",2015
+"Tea Tree Gully","C","SA","ERP",47700,50391,48470,"A",2015
+"The Coorong","R","SA","ERP",47800,2716,2840,"A",2015
+"Tumby Bay","R","SA","ERP",47910,1332,1336,"A",2015
+"Unley","C","SA","ERP",47980,20325,18999,"A",2015
+"Victor Harbor","C","SA","ERP",48050,7813,7356,"A",2015
+"Wakefield","R","SA","ERP",48130,3286,3600,"A",2015
+"Walkerville,R,SA,ERP,48260,3891,3782,"A",2015
+"Wattle Range","R","SA","ERP",48340,5663,5797,"A",2015
+"West Torrens","C","SA","ERP",48410,30047,28917,"A",2015
+"Whyalla","C","SA","ERP",48540,11108,11651,"A",2015
+"Wudinna","R","SA","ERP",48640,593,689,"A",2015
+"Yankalilla","R","SA","ERP",48750,2407,2293,"A",2015
+"Yorke Peninsula","R","SA","ERP",48830,5379,5639,"A",2015
+"Albany","C","WA","ERP",50080,19132,18101,"A",2015
+"Armadale","C","WA","ERP",50210,40339,39948,"A",2015
+"Ashburton","R","WA","ERP",50250,3231,7720,"A",2015
+"Augusta-Margaret River","R","WA","ERP",50280,6909,6898,"A",2015
+"Bassendean","R","WA","ERP",50350,7923,8178,"A",2015
+"Bayswater","C","WA","ERP",50420,34934,35538,"A",2015
+"Belmont","C","WA","ERP",50490,19813,21531,"A",2015
+"Beverley","R","WA","ERP",50560,776,806,"A",2015
+"Boddington","R","WA","ERP",50630,873,1664,"A",2015
+"Boyup Brook","R","WA","ERP",50770,835,790,"A",2015
+"Bridgetown-Greenbushes","R","WA","ERP",50840,2415,2247,"A",2015
+"Brookton","R","WA","ERP",50910,500,508,"A",2015
+"Broome","R","WA","ERP",50980,8587,8721,"A",2015
+"Broomehill-Tambellup","R","WA","ERP",51080,560,574,"A",2015
+"Bruce Rock","R","WA","ERP",51120,466,473,"A",2015
+"Bunbury","C","WA","ERP",51190,17408,17059,"A",2015
+"Busselton","C","WA","ERP",51260,18903,17432,"A",2015
+"Cambridge","R","WA","ERP",51310,14357,13893,"A",2015
+"Canning","C","WA","ERP",51330,48060,50295,"A",2015
+"Capel","R","WA","ERP",51400,8768,8548,"A",2015
+"Carnamah","R","WA","ERP",51470,219,316,"A",2015
+"Carnarvon","R","WA","ERP",51540,3027,3071,"A",2015
+"Chapman Valley","R","WA","ERP",51610,572,657,"A",2015
+"Chittering","R","WA","ERP",51680,2609,2692,"A",2015
+"Claremont","R","WA","ERP",51750,5507,5199,"A",2015
+"Cockburn","C","WA","ERP",51820,53842,53803,"A",2015
+"Collie","R","WA","ERP",51890,4288,5368,"A",2015
+"Coolgardie","R","WA","ERP",51960,1862,2250,"A",2015
+"Coorow","R","WA","ERP",52030,452,601,"A",2015
+"Corrigin","R","WA","ERP",52100,535,548,"A",2015
+"Cottesloe","R","WA","ERP",52170,4339,4263,"A",2015
+"Cranbrook","R","WA","ERP",52240,527,544,"A",2015
+"Cuballing","R","WA","ERP",52310,444,453,"A",2015
+"Cue","R","WA","ERP",52380,110,161,"A",2015
+"Cunderdin","R","WA","ERP",52450,625,700,"A",2015
+"Dalwallinu","R","WA","ERP",52520,597,687,"A",2015
+"Dandaragan","R","WA","ERP",52590,1505,1748,"A",2015
+"Dardanup","R","WA","ERP",52660,7204,7029,"A",2015
+"Denmark","R","WA","ERP",52730,3014,2872,"A",2015
+"Derby-West Kimberley","R","WA","ERP",52800,3886,5017,"A",2015
+"Donnybrook-Balingup","R","WA","ERP",52870,2940,2909,"A",2015
+"Dowerin","R","WA","ERP",52940,321,358,"A",2015
+"Dumbleyung","R","WA","ERP",53010,269,312,"A",2015
+"Dundas","R","WA","ERP",53080,486,641,"A",2015
+"East Fremantle","R","WA","ERP",53150,3921,3822,"A",2015
+"East Pilbara","R","WA","ERP",53220,3735,8462,"A",2015
+"Esperance","R","WA","ERP",53290,7294,7184,"A",2015
+"Exmouth","R","WA","ERP",53360,1215,1376,"A",2015
+"Fremantle","C","WA","ERP",53430,15715,15331,"A",2015
+"Gingin","R","WA","ERP",53570,2648,2802,"A",2015
+"Gnowangerup","R","WA","ERP",53640,624,665,"A",2015
+"Goomalling","R","WA","ERP",53710,490,495,"A",2015
+"Gosnells","C","WA","ERP",53780,61545,63506,"A",2015
+"Greater Geraldton","C","WA","ERP",53800,20997,20226,"A",2015
+"Halls Creek","R","WA","ERP",53920,1886,2044,"A",2015
+"Harvey","R","WA","ERP",53990,13840,13448,"A",2015
+"Irwin","R","WA","ERP",54060,1812,1941,"A",2015
+"Jerramungup","R","WA","ERP",54130,503,576,"A",2015
+"Joondalup","C","WA","ERP",54170,84328,83563,"A",2015
+"Kalamunda","R","WA","ERP",54200,30773,30057,"A",2015
+"Kalgoorlie/Boulder","C","WA","ERP",54280,15512,17550,"A",2015
+"Karratha","C","WA","ERP",54310,9923,16305,"A",2015
+"Katanning","R","WA","ERP",54340,2319,2031,"A",2015
+"Kellerberrin","R","WA","ERP",54410,623,596,"A",2015
+"Kent","R","WA","ERP",54480,225,296,"A",2015
+"Kojonup","R","WA","ERP",54550,1030,969,"A",2015
+"Kondinin","R","WA","ERP",54620,448,607,"A",2015
+"Koorda","R","WA","ERP",54690,217,218,"A",2015
+"Kulin","R","WA","ERP",54760,393,406,"A",2015
+"Kwinana","C","WA","ERP",54830,18258,18891,"A",2015
+"Lake Grace","R","WA","ERP",54900,606,708,"A",2015
+"Laverton","R","WA","ERP",54970,343,873,"A",2015
+"Leonora","R","WA","ERP",55040,720,1756,"A",2015
+"Mandurah","C","WA","ERP",55110,43008,40923,"A",2015
+"Manjimup","R","WA","ERP",55180,4734,4670,"A",2015
+"Meekatharra","R","WA","ERP",55250,498,878,"A",2015
+"Melville","C","WA","ERP",55320,54638,52017,"A",2015
+"Menzies","R","WA","ERP",55390,165,213,"A",2015
+"Merredin","R","WA","ERP",55460,1569,1722,"A",2015
+"Mingenew","R","WA","ERP",55530,213,260,"A",2015
+"Moora","R","WA","ERP",55600,1280,1259,"A",2015
+"Morawa","R","WA","ERP",55670,390,489,"A",2015
+"Mosman Park","R","WA","ERP",55740,5196,4351,"A",2015
+"Mount Magnet","R","WA","ERP",55810,256,387,"A",2015
+"Mount Marshall","R","WA","ERP",55880,196,253,"A",2015
+"Mukinbudin","R","WA","ERP",55950,199,269,"A",2015
+"Mundaring","R","WA","ERP",56090,19598,20417,"A",2015
+"Murchison","R","WA","ERP",56160,43,71,"A",2015
+"Murray","R","WA","ERP",56230,8684,8578,"A",2015
+"Nannup","R","WA","ERP",56300,612,695,"A",2015
+"Narembeen","R","WA","ERP",56370,394,401,"A",2015
+"Narrogin","R","WA","ERP",56450,416,475,"A",2015
+"Narrogin","R","WA","ERP",56520,2248,2219,"A",2015
+"Nedlands","C","WA","ERP",56580,11823,11261,"A",2015
+"Ngaanyatjarraku","R","WA","ERP",56620,637,783,"A",2015
+"Northam","R","WA","ERP",56730,5723,5832,"A",2015
+"Northampton","R","WA","ERP",56790,1582,1671,"A",2015
+"Nungarin","R","WA","ERP",56860,87,131,"A",2015
+"Peppermint Grove","R","WA","ERP",56930,921,725,"A",2015
+"Perenjori","R","WA","ERP",57000,253,642,"A",2015
+"Perth","C","WA","ERP",57080,9160,11932,"A",2015
+"Pingelly","R","WA","ERP",57140,585,603,"A",2015
+"Plantagenet","R","WA","ERP",57210,2556,2629,"A",2015
+"Port Hedland","R","WA","ERP",57280,6827,9656,"A",2015
+"Quairading","R","WA","ERP",57350,540,504,"A",2015
+"Ravensthorpe","R","WA","ERP",57420,1038,1225,"A",2015
+"Rockingham","C","WA","ERP",57490,64670,64292,"A",2015
+"Sandstone","R","WA","ERP",57630,48,57,"A",2015
+"Serpentine-Jarrahdale","R","WA","ERP",57700,12021,12087,"A",2015
+"Shark Bay","R","WA","ERP",57770,448,503,"A",2015
+"South Perth","C","WA","ERP",57840,23144,23100,"A",2015
+"Stirling","C","WA","ERP",57910,114013,113553,"A",2015
+"Subiaco","C","WA","ERP",57980,10464,9959,"A",2015
+"Swan","C","WA","ERP",58050,66438,66865,"A",2015
+"Tammin","R","WA","ERP",58190,182,224,"A",2015
+"Three Springs","R","WA","ERP",58260,292,322,"A",2015
+"Toodyay","R","WA","ERP",58330,2360,2184,"A",2015
+"Trayning","R","WA","ERP",58400,136,190,"A",2015
+"Upper Gascoyne","R","WA","ERP",58470,109,155,"A",2015
+"Victoria Park","R","WA","ERP",58510,19013,19437,"A",2015
+"Victoria Plains","R","WA","ERP",58540,426,488,"A",2015
+"Vincent","C","WA","ERP",58570,18179,19282,"A",2015
+"Wagin","R","WA","ERP",58610,988,932,"A",2015
+"Wandering","R","WA","ERP",58680,203,231,"A",2015
+"Wanneroo","C","WA","ERP",58760,95437,93348,"A",2015
+"Waroona","R","WA","ERP",58820,2032,2023,"A",2015
+"West Arthur","R","WA","ERP",58890,457,447,"A",2015
+"Westonia","R","WA","ERP",59030,102,157,"A",2015
+"Wickepin","R","WA","ERP",59100,339,379,"A",2015
+"Williams","R","WA","ERP",59170,467,470,"A",2015
+"Wiluna","R","WA","ERP",59250,284,872,"A",2015
+"Wongan-Ballidu","R","WA","ERP",59310,724,756,"A",2015
+"Woodanilling","R","WA","ERP",59320,198,224,"A",2015
+"Wyalkatchem","R","WA","ERP",59330,258,267,"A",2015
+"Wyndham-East Kimberley","R","WA","ERP",59340,4156,4504,"A",2015
+"Yalgoo","R","WA","ERP",59350,101,301,"A",2015
+"Yilgarn","R","WA","ERP",59360,563,989,"A",2015
+"York","R","WA","ERP",59370,1724,1736,"A",2015
+"Break O'Day","R","Tas","ERP",60210,3111,3358,"A",2015
+"Brighton","R","Tas","ERP",60410,8093,7917,"A",2015
+"Burnie","C","Tas","ERP",60610,10176,9711,"A",2015
+"Central Coast","R","Tas","ERP",60810,11359,11042,"A",2015
+"Central Highlands","R","Tas","ERP",61010,1072,1237,"A",2015
+"Circular Head","R","Tas","ERP",61210,3978,4267,"A",2015
+"Clarence","C","Tas","ERP",61410,27443,27231,"A",2015
+"Derwent Valley","R","Tas","ERP",61510,4875,5151,"A",2015
+"Devonport","C","Tas","ERP",61610,13104,12429,"A",2015
+"Dorset","R","Tas","ERP",61810,3557,3548,"A",2015
+"Flinders","R","Tas","ERP",62010,375,408,"A",2015
+"George Town","R","Tas","ERP",62210,3297,3505,"A",2015
+"Glamorgan/Spring Bay","R","Tas","ERP",62410,2191,2302,"A",2015
+"Glenorchy","C","Tas","ERP",62610,23343,22484,"A",2015
+"Hobart","C","Tas","ERP",62810,25460,25254,"A",2015
+"Huon Valley","R","Tas","ERP",63010,8022,8332,"A",2015
+"Kentish","R","Tas","ERP",63210,3034,3447,"A",2015
+"King Island","R","Tas","ERP",63410,758,819,"A",2015
+"Kingborough","R","Tas","ERP",63610,18247,17586,"A",2015
+"Latrobe","R","Tas","ERP",63810,5491,5447,"A",2015
+"Launceston","C","Tas","ERP",64010,33858,33220,"A",2015
+"Meander Valley","R","Tas","ERP",64210,10052,9634,"A",2015
+"Northern Midlands","R","Tas","ERP",64610,6362,6387,"A",2015
+"Sorell","R","Tas","ERP",64810,6964,6991,"A",2015
+"Southern Midlands","R","Tas","ERP",65010,2982,3296,"A",2015
+"Tasman","R","Tas","ERP",65210,1129,1276,"A",2015
+"Waratah/Wynyard","R","Tas","ERP",65410,7120,7169,"A",2015
+"West Coast","R","Tas","ERP",65610,2048,2435,"A",2015
+"West Tamar","R","Tas","ERP",65810,11734,11468,"A",2015
+"Alice Springs","R","NT","ERP",70200,13104,14868,"A",2015
+"Barkly","R","NT","ERP",70420,3946,4222,"A",2015
+"Belyuen","R","NT","ERP",70540,92,117,"A",2015
+"Central Desert","R","NT","ERP",70620,2118,2250,"A",2015
+"Coomalie","R","NT","ERP",70700,549,747,"A",2015
+"Darwin","C","NT","ERP",71000,39727,43185,"A",2015
+"East Arnhem","R","NT","ERP",71300,5121,5609,"A",2015
+"Katherine","R","NT","ERP",72200,5147,5971,"A",2015
+"Litchfield","R","NT","ERP",72300,10453,13161,"A",2015
+"MacDonnell","R","NT","ERP",72330,3163,3819,"A",2015
+"Palmerston","C","NT","ERP",72800,17106,17546,"A",2015
+"Roper Gulf","R","NT","ERP",73600,3587,3849,"A",2015
+"Tiwi Islands","R","NT","ERP",74050,1416,1686,"A",2015
+"Victoria Daly","R","NT","ERP",74550,1607,1719,"A",2015
+"Wagait","R","NT","ERP",74560,194,233,"A",2015
+"West Arnhem","R","NT","ERP",74660,3432,4020,"A",2015
+"West Daly","R","NT","ERP",74680,1830,1934,"A",2015
+"Canberra","R","ACT","ERP",89399,196790,193916,"A",2015
